@@ -222,13 +222,9 @@ The project dashboard provides an interactive view of customer behavior.
   - Category
   - Shipping Type
 
-### Dashboard Preview
+## Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-```md
-![Dashboard](dashboard_preview.png)
-```
+![Customer Behavior Dashboard](DashBoard.jpg)
 
 ---
 
